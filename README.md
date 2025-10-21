@@ -1,6 +1,6 @@
 # github-profile-starter
 My first GitHub project to learn version control and start building an active profile.
-# 👋 Hi there, I'm [Your Name]!
+# 👋 Hi there, I'm Bctiktok!
 
 Welcome to my first GitHub project!  
 This repository marks the beginning of my GitHub journey 🚀  
